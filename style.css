@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+* {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.imagem {
+  width: 300px;
+  height: 300px;
+}
+
+.minhaBarra {
+  padding: 10px;
+
+
+
+
+}
+
+.alinhar {
+  width: 80%;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.descricao {
+  font-weight: 700px;
+  font-size: 12px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#botao {
+  width: 340px;
+  height: 50px;
+  font-weight: 900;
+  background-color: rgb(212, 212, 212);
+}
